@@ -24,7 +24,7 @@ This project will speed up the process of a project description and will make it
 ## Contributors
 
 ## Testing
-Npm testing and debugging as a part of a testing procedure;;
+Npm testing and debugging as a part of a testing procedure;
 ## Features
 It is well-structured and coherent
 ## Languages & Dependencies
@@ -35,3 +35,4 @@ Marynaappliedl
 poberezhnaya.78@gmail.com;
 ## Questions
 [here](mailto:poberezhnaya.78@gmail.com?subject=[GitHub]%20Dev%20Connect)
+visit [github/Marynaappliedl](https://github.com/Marynaappliedl)

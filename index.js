@@ -1,7 +1,7 @@
 //Including packages needed for this application
-const fs = require("fs");
-const inquirer = require("inquirer");
-const path = require("path");
+const fs = require("fs");//for file system management
+const inquirer = require("inquirer");//inquierer package
+const path = require("path");//it`s where the responses are stored
 const generateMarkdown = require("./utils/generateMarkdown");
 
 //Creating an array of questions for user input

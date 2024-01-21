@@ -45,6 +45,7 @@ ${data.creator}
 ${data.email};
 ## Questions
 [here](mailto:${data.email}?subject=[GitHub]%20Dev%20Connect)
+visit [github/${data.creator}](https://github.com/${data.creator})
 `;
 }
 module.exports = generateMarkdown;
