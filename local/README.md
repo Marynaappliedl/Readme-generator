@@ -17,6 +17,8 @@ A Readme generator
 The purpose of this project is to faciliate creation of README.mds for future codes as well as to make README files more structured and expanded. The Readme generator was created by Node and an inquierer.
 ## Installation Details
 First of all, a user needs to create a file management system which is built through the require fs command.Another step is to install an inquierer. Inquierer is installed via npm init and then an npm install inquierer. The npm init installs a package.json and npm install inquierer installs a node modules package and a package lock json package. On the next line, a user needs to indicate a path where responses to the questions from index.js will go and the last line is a require function that indicates a location of a future README file that we are about to create.
+Here is a full video about a program installation:
+<video src="../A%20Readme%20generator%20installation%20(1).mp4" controls title="Title"></video>
 ## Usage of the project:
 This project will speed up the process of a project description and will make it more structured so that more inaccuracies could be avoided.
 ## License
